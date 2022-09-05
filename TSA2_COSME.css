@@ -1,0 +1,158 @@
+.container{
+    display: flex;
+    justify-content: center;
+    border: 0px solid black;
+    width:1000px;
+    height:1350px;
+    margin-top:30px;
+    margin-bottom: 30px;
+    background-color: white;
+    padding: 0px;   
+}
+body{
+    background-color: #819CB7;
+}
+.img-fluid{
+    width: 300px;
+    height: auto;
+    clip-path: circle();
+}
+.flexbox-item-picture{
+    width:200px;
+    margin-top:70px;
+    margin-left:70px;
+    border-radius: 50%;
+    align-self: center;
+}
+.flexbox-item{
+    margin-top: 100px;
+    width: 500px;
+    margin-left:20px;
+}
+#name{
+    font-size: 75px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:100px;
+    color:black;
+}
+.row{
+    width:1000px;
+}
+.row-img{
+    width:550px;
+    border: 1px solid black;
+    height:auto;
+    background-color: #242C39;
+    justify-self: flex-start;
+}
+.flexbox-text{
+    width: 500px;
+    margin-left:30px;
+}
+#secondyear{
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: weight 1px;
+    color: black;
+}
+.display-5{
+    color: #F9F5F8;
+}
+.col-contactme{
+    margin-top:70px;
+    margin-left:40px;
+}
+#col-secondyear{
+    margin-top: 15px;
+}
+.col-number{
+    margin-top:40px;
+    margin-left:40px;
+}
+.display-6{
+    color: #F9F5F8;
+}
+#email{
+    font-size: 25px;
+    text-align: center;
+    color: #F9F5F8;
+}
+.col-details{
+    margin-top:25px;
+    margin-left:40px;
+}
+#number{
+    font-size: 25px;
+    text-align: center;
+    color: #F9F5F8;
+}
+#country{
+    font-size: 25px;
+    text-align: center;
+    color: #F9F5F8;
+}
+.col-skills{
+    margin-top:20px;
+    margin-left:40px;
+}
+#skillsdetails{
+    font-size: 25px;
+    text-align: center;
+    color: #F9F5F8;
+}
+.col-tools{
+    margin-top:20px;
+    margin-left:40px;
+}
+#tools{
+    font-size: 25px;
+    text-align: center;
+    color: #F9F5F8;
+}
+#col-overview{
+    margin-top: 110px;
+}
+#overview{
+    font-weight: 100;
+    font-size: 50px;
+}
+#col-p{
+    margin-top:20px;
+}
+#paragraph{
+    font-weight: 100;
+    font-size: 25px;
+    text-align: justify;
+}
+#col-edu{
+    margin-right:0px;
+    margin-left:25px;
+    margin-top:40px;
+}
+#edubg{
+    font-size: 25px;
+    text-align: center;
+    color: black;
+}
+.col-edubg{
+    margin-top:25px;
+    margin-left:0px;
+}
+.list{
+    margin-left:25px;
+    margin-top: 10px;
+}
+#pinfo{
+    font-size: 25px;
+    text-align: center;
+    color: black; 
+}
+.col-pinfo{
+    margin-right:0px;
+    margin-left:25px;
+    margin-top:20px;
+}
+
+
+
+
